@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: bisque;
+}
+
+h1{
+	color: darkslategrey;
+	font: normal;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	align-content: center;
+}
+
+h3,
+h2{
+	color: darkslategrey;
+	font: normal;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	align-content: center;
+}
+
+a{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+p{
+	color: black;
+	font: normal;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	align-content:flex-start
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+/*  width: 50%;*/
+}
+
+
